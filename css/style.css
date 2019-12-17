@@ -46,6 +46,9 @@
 
 /* Banner Area */ 
 
+.site-space {
+    margin-top: 10%
+}
 .site-main .site-banner {
     background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
 }
@@ -97,6 +100,10 @@
 .site-main .about-area .about-title .paragraph > p{
     padding: .4rem 0;
 }
+
+.txt-type > .txt {
+    border-right: 0.2rem solid #777;
+  }
 
 /* End About Area */ 
 
